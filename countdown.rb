@@ -1,5 +1,8 @@
 #write your code here
 
 def countdown
-  return "HAPPY NEW YEAR"
+  num = 60
+  while num > 0
+  
+  "HAPPY NEW YEAR"
 end
